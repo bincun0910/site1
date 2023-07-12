@@ -1,16 +1,16 @@
 ---
 name: Duc Trung Nguyen
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Developer fullstack
+#company: Stanford University
+email: contact@dtnguyen.fr
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
+linkedin: https://www.linkedin.com/in/trung-0910
 github: https://github.com
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I'm Duc, a developer fullstack in France. I have a passion for PHP and JS/TS.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+"Begin to work. To gain professional experience in different areas like app development and the web. I am able to work in
+autonomy in a dynamic and demanding environment.
+In addition, a strong motivation and analytical skills will help me become a good developer"

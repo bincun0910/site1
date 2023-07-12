@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Duc Trung Nguyen',
-  headerTitle: 'DucBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Duc family Blog',
+  author: 'Duc family',
+  headerTitle: 'Duc family Blog',
+  description: 'tata',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
